@@ -1,0 +1,7 @@
+locationfinder:
+ path: '/locationfinder'
+ defaults:
+   _title: 'DHL Location Finder'
+   _form: '\Drupal\dhl\Form\LocationFinder'
+ requirements:
+   _access: 'TRUE'
